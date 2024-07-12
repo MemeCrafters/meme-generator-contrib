@@ -3,15 +3,26 @@
 按照表情的 `key` 排列
 
 
-1. [can_can_need (看看你的)](#can_can_need)
-2. [do (撅/狠狠地撅)](#do)
-3. [empathy (换位思考)](#empathy)
-4. [fleshlight (飞机杯)](#fleshlight)
-5. [forbid (禁止/禁)](#forbid)
-6. [grab (抓)](#grab)
-7. [operator_generator (合成大干员)](#operator_generator)
-8. [stretch (双手/伸展)](#stretch)
+1. [behead (砍头/斩首)](#behead)
+2. [can_can_need (看看你的)](#can_can_need)
+3. [do (撅/狠狠地撅)](#do)
+4. [empathy (换位思考)](#empathy)
+5. [fleshlight (飞机杯)](#fleshlight)
+6. [forbid (禁止/禁)](#forbid)
+7. [grab (抓)](#grab)
+8. [operator_generator (合成大干员)](#operator_generator)
+9. [stretch (双手/伸展)](#stretch)
 
+
+## behead
+
+- 关键词：`砍头`、`斩首`
+- 需要图片数目：`1`
+- 需要文字数目：`0`
+- 预览：
+<div align="left">
+  <img src="images/behead.gif" width="200" />
+</div>
 
 ## can_can_need
 

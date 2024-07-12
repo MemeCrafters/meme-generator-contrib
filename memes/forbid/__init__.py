@@ -13,7 +13,7 @@ def forbid(images: List[BuildImage], texts, args):
 
     def make(img: BuildImage) -> BuildImage:
         return frame.copy().paste(
-            img.resize((304, 324), keep_ratio=True), (0, 0), below=True
+            img.convert("RGBA").resize((304, 324), keep_ratio=True), (0, 0), below=True
         )
 
     return make_jpg_or_gif(images[0], make)
