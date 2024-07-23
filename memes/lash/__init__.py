@@ -7,6 +7,7 @@ from pil_utils import BuildImage
 
 img_dir = Path(__file__).parent / "images"
 
+
 def lash(images: list[BuildImage], texts, args):
     self_head = images[0].convert("RGBA").circle().resize((22, 22))
     user_head = images[1].convert("RGBA").circle().resize((22, 22))
@@ -28,6 +29,5 @@ def lash(images: list[BuildImage], texts, args):
         frames.append(frame.image)
     return save_gif(frames, 0.05)
 
-add_meme(
-    "lash", lash, min_images=2, max_images=2, keywords=["鞭笞","鞭打","鞭挞","鞭策"]
-)
+
+add_meme("lash", lash, min_images=2, max_images=2, keywords=["鞭笞", "鞭打", "鞭挞", "鞭策"])
