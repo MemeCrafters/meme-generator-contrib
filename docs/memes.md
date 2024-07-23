@@ -10,9 +10,10 @@
 5. [fleshlight (飞机杯)](#fleshlight)
 6. [forbid (禁止/禁)](#forbid)
 7. [grab (抓)](#grab)
-8. [little_do (小撅/轻撅/滑稽撅)](#little_do)
-9. [operator_generator (合成大干员)](#operator_generator)
-10. [stretch (双手/伸展)](#stretch)
+8. [lash (鞭笞/鞭打/鞭挞/鞭策)](#lash)
+9. [little_do (小撅/轻撅/滑稽撅)](#little_do)
+10. [operator_generator (合成大干员)](#operator_generator)
+11. [stretch (双手/伸展)](#stretch)
 
 
 ## behead
@@ -83,6 +84,16 @@
 - 预览：
 <div align="left">
   <img src="images/grab.jpg" width="200" />
+</div>
+
+## lash
+
+- 关键词：`鞭笞`、`鞭打`、`鞭挞`、`鞭策`
+- 需要图片数目：`2`
+- 需要文字数目：`0`
+- 预览：
+<div align="left">
+  <img src="images/lash.gif" width="200" />
 </div>
 
 ## little_do
