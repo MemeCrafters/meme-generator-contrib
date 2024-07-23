@@ -10,8 +10,9 @@
 5. [fleshlight (飞机杯)](#fleshlight)
 6. [forbid (禁止/禁)](#forbid)
 7. [grab (抓)](#grab)
-8. [operator_generator (合成大干员)](#operator_generator)
-9. [stretch (双手/伸展)](#stretch)
+8. [little_do (小撅/轻撅/滑稽撅)](#little_do)
+9. [operator_generator (合成大干员)](#operator_generator)
+10. [stretch (双手/伸展)](#stretch)
 
 
 ## behead
@@ -82,6 +83,16 @@
 - 预览：
 <div align="left">
   <img src="images/grab.jpg" width="200" />
+</div>
+
+## little_do
+
+- 关键词：`小撅`、`轻撅`、`滑稽撅`
+- 需要图片数目：`2`
+- 需要文字数目：`0`
+- 预览：
+<div align="left">
+  <img src="images/little_do.gif" width="200" />
 </div>
 
 ## operator_generator
