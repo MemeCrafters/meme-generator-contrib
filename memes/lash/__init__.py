@@ -11,7 +11,7 @@ img_dir = Path(__file__).parent / "images"
 
 def lash(images: list[BuildImage], texts, args):
     self_head = images[0].convert("RGBA").circle().resize((22, 22))
-    user_head = images[1].convert("RGBA").circle().resize((22, 22))
+    user_head = images[1].convert("RGBA").circle().resize((22, 22)).rotate(30)
     # fmt: off
     self_locs = [
         (84,25), (87,23), (87,27), (86,28), (62,26),
