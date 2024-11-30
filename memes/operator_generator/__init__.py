@@ -17,11 +17,12 @@ def operator_generator(images: list[BuildImage], texts: list[str], args):
     frame.draw_text(
         (120, 0, 620, 100),
         f"{name}，你的干员信息如下：",
-        fontsize=80,
+        max_fontsize=80,
+        min_fontsize=30,
         fill="white",
         stroke_fill="black",
         stroke_ratio=0.1,
-        weight="bold",
+        font_style="bold",
         allow_wrap=True,
         lines_align="center",
     )
