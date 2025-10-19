@@ -11,8 +11,8 @@ img_dir = Path(__file__).parent / "images"
 def shoot(images: list[BuildImage], texts, args):
     def maker(i: int) -> Maker:
         def make(imgs: list[BuildImage]) -> BuildImage:
-            img = imgs[0].convert("RGBA").resize((160, 97), keep_ratio=True)
-            fluid = BuildImage.open(img_dir / f"{i}.png")
+            img = imgs[0].convert("RGBA")
+            fluid = BuildImage.open(img_dir / f"{i}.png").resize(img.size, keep_ratio=True)
             img.paste(fluid, alpha=True)
             return img
 
